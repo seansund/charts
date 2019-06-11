@@ -1,2 +1,2 @@
 exclude: "*"
-include: ["index.html", "*.yaml", "*.tgz", "stable/*.yaml"]
+include: ["**/index.html", "**/index.yaml", "*.tgz"]
